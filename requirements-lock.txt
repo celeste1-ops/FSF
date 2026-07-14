@@ -1,0 +1,5 @@
+# Direct numerical package versions used in the audited rerun.
+# Python 3.13.5 was used; Python 3.11 or later is required for these versions.
+numpy==2.3.5
+scipy==1.17.0
+matplotlib==3.10.8
