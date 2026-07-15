@@ -108,10 +108,15 @@ The full optimization is substantially slower. The packaged `N=100` result files
 - Piecewise interventions are split at parameter/input discontinuities.
 - Stochastic state simulations use Euler–Maruyama with `dt=0.1`; seeds are specified in the corresponding scripts.
 - Deterministic integration does not clamp states. The stochastic extension applies the projection rules described in the paper.
+  
 
 ## Citation
 
-Citation metadata are provided in `CITATION.cff`. After the preprint receives a permanent URL or DOI, that identifier can be added to the repository metadata without changing the numerical release.
+Preprint DOI: https://doi.org/10.5281/zenodo.21383204
+
+Gu, S. (2026). *A Mechanistic Nonlinear Dynamical Framework for Feeling-State Evolution: Bifurcation, Trapped States, and Recovery Thresholds* (Version 1.0) [Preprint]. Zenodo. https://doi.org/10.5281/zenodo.21383204
+
+Machine-readable citation metadata are provided in `CITATION.cff`.
 
 ## License
 
