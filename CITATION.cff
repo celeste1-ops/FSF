@@ -6,6 +6,7 @@ type: software
 authors:
   - family-names: "Gu"
     given-names: "Suning"
+  orcid: "https://orcid.org/0009-0004-6485-1864"
 
 version: 1.0.0
 date-released: 2026-07-14
@@ -20,6 +21,7 @@ preferred-citation:
   authors:
     - family-names: "Gu"
       given-names: "Suning"
+      orcid: "https://orcid.org/0009-0004-6485-1864"
   year: 2026
   doi: "10.5281/zenodo.21383204"
   url: "https://doi.org/10.5281/zenodo.21383204"
