@@ -2,16 +2,24 @@ cff-version: 1.2.0
 message: "If you use this software, please cite the FSF preprint and this software release."
 title: "Feeling State Framework (FSF) reproducibility code"
 type: software
+
 authors:
-  - family-names: Gu
-    given-names: Suning
+  - family-names: "Gu"
+    given-names: "Suning"
+
 version: 1.0.0
 date-released: 2026-07-14
 license: MIT
+
+repository-code: "https://github.com/celeste1-ops/FSF"
+url: "https://github.com/celeste1-ops/FSF/releases/tag/v1.0.0"
+
 preferred-citation:
   type: article
   title: "A Mechanistic Nonlinear Dynamical Framework for Feeling-State Evolution: Bifurcation, Trapped States, and Recovery Thresholds"
   authors:
-    - family-names: Gu
-      given-names: Suning
+    - family-names: "Gu"
+      given-names: "Suning"
   year: 2026
+  doi: "10.5281/zenodo.21383204"
+  url: "https://doi.org/10.5281/zenodo.21383204"
