@@ -6,7 +6,7 @@ type: software
 authors:
   - family-names: "Gu"
     given-names: "Suning"
-  orcid: "https://orcid.org/0009-0004-6485-1864"
+    orcid: "https://orcid.org/0009-0004-6485-1864"
 
 version: 1.0.0
 date-released: 2026-07-14
